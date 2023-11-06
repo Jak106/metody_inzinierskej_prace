@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: article.aux
+The style file: abbrv.bst
+Database file #1: references.bib
+Warning--entry type for "wikiscraping" isn't style-file defined
+--line 1 of file references.bib
+Warning--entry type for "simplilearn-data-collection" isn't style-file defined
+--line 21 of file references.bib
+Warning--entry type for "towardsdatascience-web-scraping" isn't style-file defined
+--line 30 of file references.bib
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            515 strings with 4190 characters,
+and the built_in function-call counts, 1081 in all, are:
+= -- 101
+> -- 34
+< -- 1
++ -- 15
+- -- 10
+* -- 43
+:= -- 171
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 44
+empty$ -- 108
+format.name$ -- 10
+if$ -- 242
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 1
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 42
+stack$ -- 0
+substring$ -- 49
+swap$ -- 14
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 10
+width$ -- 5
+write$ -- 43
+(There were 3 warnings)

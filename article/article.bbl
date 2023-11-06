@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{dive-into-web-scraping}
+D.~K. Mahto and L.~Singh.
+\newblock A dive into web scraper world.
+\newblock In {\em 2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom)}, pages 689--693, 2016.
+
+\bibitem{towardsdatascience-web-scraping}
+H.~Patel.
+\newblock Web scraping applications, n.d.
+\newblock Towards Data Science article on web scraping applications.
+
+\bibitem{simplilearn-data-collection}
+{Simplilearn}.
+\newblock What is data collection?, n.d.
+\newblock Simplilearn article on data collection.
+
+\bibitem{wikiscraping}
+Wikipedia.
+\newblock Web scraping, n.d.
+\newblock Wikipedia page on web scraping.
+
+\end{thebibliography}
