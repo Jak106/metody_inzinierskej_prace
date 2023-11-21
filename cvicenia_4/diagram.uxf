@@ -1,0 +1,11 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>Relation</id><coordinates><x>350</x><y>200</y><w>70</w><h>200</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>50;180;10;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>350</x><y>380</y><w>120</w><h>40</h></coordinates><panel_attributes>lt=.
+Collaboration
+fg=red
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>530</x><y>190</y><w>120</w><h>40</h></coordinates><panel_attributes>Use case 2
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>200</y><w>200</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>180;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>150</x><y>140</y><w>210</w><h>70</h></coordinates><panel_attributes>_object: Class_
+--
+id: Long="36548"
+[waiting for message]</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>460</x><y>30</y><w>140</w><h>70</h></coordinates><panel_attributes>EmptyPackage
+--
+bg=red
+hello world</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>90</y><w>130</w><h>140</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>110;10;10;120</additional_attributes></element></diagram>
